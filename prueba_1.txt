@@ -1,0 +1,2 @@
+crear un archivo texto con click derecho en la carpeta,
+luego git status para ver que dice
